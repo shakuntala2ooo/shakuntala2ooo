@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://c8.alamy.com/comp/2C3XTMT/a-young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-at-home-vector-flat-illustration-2C3XTMT.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakuntala2ooo&label=Profile%20views&color=0e75b6&style=flat" alt="shakuntala2ooo" /> </p>
 
-- 🔭 I’m currently working on **Distributed systems**
 
-- 🌱 I’m currently learning **Unix, Web development**
+
+- 🌱 I’m currently learning ** Web development**
 
 - 📫 How to reach me **shakuntalasarkar190@gmail.com**
 
