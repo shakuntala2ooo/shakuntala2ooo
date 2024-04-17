@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shakuntala sarkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://c8.alamy.com/comp/2C3XTMT/a-young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-at-home-vector-flat-illustration-2C3XTMT.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakuntala2ooo&label=Profile%20views&color=0e75b6&style=flat" alt="shakuntala2ooo" /> </p>
 
 
 
-- 🌱 I’m currently learning ** Web development**
+- 🌱 I’m currently learning ** OpenCV Projects**
 
-- 📫 How to reach me **shakuntalasarkar190@gmail.com**
+- 📫 How to reach me **shakuntalasarkar2000@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
